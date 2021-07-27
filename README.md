@@ -3,7 +3,6 @@
 Food Recipe App is a simple app which uses Forkify API to fetch collection of Food recipes from the API. The main aim of this app is to be a leading example of how to build Modern Android applications for all Android Developers.
 
 **using Java implemented with:**
-
 - Retrofit
 - RecyclerView
 - Firebase Authentication
