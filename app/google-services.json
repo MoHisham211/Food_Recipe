@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252406621613",
+    "project_id": "food-recipe-a4074",
+    "storage_bucket": "food-recipe-a4074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252406621613:android:c47622e119b950fe06ed24",
+        "android_client_info": {
+          "package_name": "mo.zain.food_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252406621613-n31dt4bklbnn0oru37k4m0qt06pg53bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTLiGP4_wLtwHdl4Xy5H6rHyter1OfbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252406621613-n31dt4bklbnn0oru37k4m0qt06pg53bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
